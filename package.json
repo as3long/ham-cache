@@ -1,0 +1,23 @@
+{
+  "name": "ham-cache",
+  "version": "1.0.0",
+  "description": "一个异步的基于网络的Cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/as3long/ham-cache.git"
+  },
+  "keywords": [
+    "Cache"
+  ],
+  "author": "as3long@qq.com",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-stage-0": "^6.5.0"
+  }
+}
